@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.smargo.aif</groupId>
+    <artifactId>Aif</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>AifService</artifactId>
+  <name>AifService</name>
+  <url>http://maven.apache.org</url>
+  <properties>
+    
+  </properties>
+  <dependencies>
+    
+  </dependencies>
+  
+  <distributionManagement>
+		<snapshotRepository>
+			<id>public</id>
+			<name>public</name>
+			<url>
+				http://maven.oschina.net/content/repositories/thirdparty/
+			</url>
+		</snapshotRepository>
+	</distributionManagement>
+</project>
